@@ -4,11 +4,11 @@
 
 ![App Screenshot](/AssetsReadme/withRing.gif)
 
-with ring
+with ring(gif)
 
 ![App Screenshot](/AssetsReadme/noRing.gif)
 
-no ring
+no ring(gif)
 
 
 # UWP Custom Splash
