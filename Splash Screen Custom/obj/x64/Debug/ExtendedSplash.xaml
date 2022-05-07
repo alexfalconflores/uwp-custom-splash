@@ -31,7 +31,7 @@
                 Padding="0,0,20,0"
                 HorizontalAlignment="Center"
                 IsActive="True"
-                Visibility="Collapsed" />
+                Visibility="Visible" />
         </Canvas>
     </Grid>
 </Page>
